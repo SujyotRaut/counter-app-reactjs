@@ -1,3 +1,9 @@
 .App {
-  
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.App > button {
+  display: block;
+  margin: 0.8rem auto;
 }
